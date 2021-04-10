@@ -19,8 +19,14 @@ export default function () {
   const checked = useWindowPosition('header');
   return (
     <div className={classes.root} id="meeting">
-      <ImageCard session={Sessions[1]} checked={checked} />
+      <div>
       <ImageCard session={Sessions[0]} checked={checked} />
+      <ImageCard session={Sessions[1]} checked={checked} />
+      </div>
+      <span>
+      <ImageCard session={Sessions[2]} checked={checked} />
+      <ImageCard session={Sessions[3]} checked={checked} />
+      </span>
     </div>
   );
 }

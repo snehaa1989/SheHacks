@@ -50,7 +50,7 @@ const Header = () => {
           className="header__logo"
         />
 
-        <p>Group Sessions</p>
+        <p>Edu Learn</p>
       </div>
 
       <div className="header__icons">
