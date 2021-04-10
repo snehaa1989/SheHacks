@@ -18,7 +18,13 @@
   3) JQuery
   4) React
   5) Firebase
-  
+  6) Nodejs
+
+## How to run:
+  1)fork and clone the repository to your system
+  2)run `npm install`
+  3)after installing dependencies, `npm run dev`
+  4)server starts at localhost 3001 and react app runs at localhost 3000
 
 ## Contributors:
 
