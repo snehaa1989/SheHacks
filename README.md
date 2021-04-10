@@ -11,11 +11,11 @@
 ## Table of Contents:
 
 ## Technology Stack:
-  1) HTML
-  2) CSS
-  3) JQUERY
-  4) REACT
-  5) FIREBASE
+  1) Html
+  2) Css
+  3) JQuery
+  4) React
+  5) Firebase
   
 
 ## Contributors:
