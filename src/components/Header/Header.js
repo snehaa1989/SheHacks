@@ -30,7 +30,10 @@ const Header = () => {
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
   };
+  const routeChange = () =>{ 
+    window.open("http://localhost:5500/src/components/Chatbot/chatbot.html");
 
+  }
   const open = Boolean(anchorEl);
   const id = open ? "simple-popover" : undefined;
 
@@ -54,7 +57,7 @@ const Header = () => {
         
 
         <div className="header__iconDivider"></div>
-        <HelpOutline/>
+        <HelpOutline onClick={routeChange}/>
         <Avatar className="header__avatar" onClick={handleClick} />
 
         <Popover
