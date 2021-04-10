@@ -8,6 +8,7 @@
 
 ## Introduction:
   EduLearn is a website that focuses to solve and bring up a unique idea to reform the education system for the better.
+  During the pandemic, Schools are closing. People are working from home. Travel plans are being cancelled and meetings - professional and personal - are being put on hold. As COVID-19 pushes us to a life of social seclusion, it is important to stay connected with people, Edulearn was built primarily for students to hold "virtual study sessions" with other students as Being part of a study group  helps to avoid procrastination. Study groups can help you develop as a student, person, and professional. Study groups encourage members to think creatively and build strong communication skills which also help in refining understanding of the material.
   
 ## Table of Contents:
 
