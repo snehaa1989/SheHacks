@@ -11,6 +11,8 @@
   During the pandemic, Schools are closing. People are working from home. Travel plans are being cancelled and meetings - professional and personal - are being put on hold. As COVID-19 pushes us to a life of social seclusion, it is important to stay connected with people, Edulearn was built primarily for students to hold "virtual study sessions" with other students as Being part of a study group  helps to avoid procrastination. Study groups can help you develop as a student, person, and professional. Study groups encourage members to think creatively and build strong communication skills which also help in refining understanding of the material.
   
 ## Table of Contents:
+## Video Demo Link
+https://drive.google.com/drive/folders/13xA_Td_tYcAeNXtt4QeH-x3IMTNhA8Lu?usp=sharing
 
 ## Technology Stack:
   1) Html
